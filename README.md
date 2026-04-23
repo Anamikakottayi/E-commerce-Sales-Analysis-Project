@@ -111,7 +111,7 @@ Performed queries for:
 
 ## 📸 Dashboard Preview
 
-E-commerce_dashboard.png
+![E-commerce Dashboard](E-commerce_dashboard.png)
 
 ---
 
