@@ -120,8 +120,8 @@ Performed queries for:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-analysis.git
-```
+git clone https://github.com/Anamikakottayi/E-commerce-Sales-Analysis-Project.git
+cd E-commerce-Sales-Analysis-Project
 
 ### 2. Load data into MySQL
 
